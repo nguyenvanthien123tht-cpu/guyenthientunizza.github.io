@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Nguyễn Thiện Tú Nizza</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f4;
+      color: #333;
+    }
+
+    header {
+      background: #4a90e2;
+      color: white;
+      padding: 60px 20px;
+      text-align: center;
+    }
+
+    main {
+      max-width: 800px;
+      margin: 30px auto;
+      padding: 0 20px;
+    }
+
+    footer {
+      background: #333;
+      color: #ccc;
+      text-align: center;
+      padding: 20px;
+    }
+
+    .contact a {
+      color: #4a90e2;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Nguyễn Thiện Tú</h1>
+    <p>Chào mừng đến với trang cá nhân của tôi</p>
+  </header>
+  <main>
+    <h2>🧑 Giới thiệu</h2>
+    <p>Tôi là Nguyễn Thiện Tú, đang sống tại Nizza (Pháp). Đây là nơi tôi chia sẻ thông tin cá nhân, các dự án và sở thích của mình.</p>
+
+    <h2>📫 Liên hệ</h2>
+    <p class="contact">
+      Email: <a href="mailto:nguyenthientu@gmail.com">nguyenthientu@gmail.com</a><br/>
+      Facebook: <a href="https://facebook.com/nguyenthientu" target="_blank">facebook.com/nguyenthientu</a>
+    </p>
+  </main>
+  <footer>
+    © 2025 Nguyễn Thiện Tú. All rights reserved.
+  </footer>
+</body>
+</html>
